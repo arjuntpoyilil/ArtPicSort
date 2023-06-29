@@ -1,3 +1,4 @@
 # ArtPicSort
- ArtPicSort is a powerful application designed to streamline the process of importing and organizing images and videos from a designated folder and its subfolders. With ArtPicSort, you can effortlessly arrange your media files into folders structured in the "yyyy\yyyy-MM-dd" format, making it easier to locate and manage your visual content.
+ArtPicSort is a versatile application designed to simplify the process of transferring image and video files from a chosen folder and its subfolders to a designated destination folder. With ArtPicSort, you can effortlessly organize your media files, ensuring they are neatly arranged based on their modified dates, following the "yyyy\yyyy-MM-dd" folder structure. With ArtPicSort, you can easily manage and organize your media files, saving time and improving file organization.
+
 Copyright (c) 2023 Arjun Poyilil
