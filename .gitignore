@@ -67,3 +67,5 @@ __recovery/
 
 # Boss dependency manager vendor folder https://github.com/HashLoad/boss
 modules/
+Win64/Debug/ArtPicSort.exe
+Win64/Release/upx.exe
